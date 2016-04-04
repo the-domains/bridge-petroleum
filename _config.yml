@@ -1,0 +1,28 @@
+name: Bridge Petroleum
+favicon: null
+layout_spectrum: 0.5082338531501591
+typography_spectrum: 0.4555010227486491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6265437935944647
+  lightness: 0.6620196050498635
+  saturation: 0.3537052692845464
+  rhythmicContrast: 0.37024400825612247
+purpose: []
