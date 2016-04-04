@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Bridge Petroleum is an independent oil and gas company. We focus on development and production of hydrocarbon.\_"
-datePublished: '2016-04-04T20:51:41.914Z'
-dateModified: '2016-04-04T20:19:10.143Z'
+datePublished: '2016-04-04T20:51:54.804Z'
+dateModified: '2016-04-04T20:51:50.675Z'
 title: BRIDGE PETROLEUM
 author: []
 authors: []
