@@ -2,6 +2,7 @@ name: Bridge Petroleum
 favicon: null
 layout_spectrum: 0.5082338531501591
 typography_spectrum: 0.4555010227486491
+title: placeholder
 cta:
   domain: null
   bucket: null
