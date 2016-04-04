@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bridge Petroleum]]></title>
         <description><![CDATA[Bridge Petroleum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bridge-petroleum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 20:51:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 20:52:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bridge-petroleum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BRIDGE PETROLEUM]]></title>
             <description><![CDATA[<article><h1>BRIDGE PETROLEUM</h1><p>Bridge Petroleum is an independent oil and gas company. We focus on development and production of hydrocarbon. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7b07fb3a907cd15cb438da9f47d2b57f636d4fe.jpg"></article>]]></description>
-            <link>undefinedbridge-petroleum/index.html</link>
+            <link>https://thegrid.ai/bridge-petroleum/bridge-petroleum/index.html</link>
             <guid isPermaLink="false">443955bd-16e6-43e0-baaf-a4c752692a9a</guid>
-            <pubDate>Mon, 04 Apr 2016 20:51:41 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 20:51:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
